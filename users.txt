@@ -1,0 +1,4 @@
+1 shazil Admin root root
+2 Jane Owner janesmith@example.com 1234
+3 Alice Buyer alicebrown@example.com 1234
+4 osaf Admin osaf11@gmail.com 1234
